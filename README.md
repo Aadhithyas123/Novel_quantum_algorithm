@@ -1,1 +1,1 @@
-# Novel_quantum_algorithm
+# QuanX_Development-of-Novel-Quantum-Algorithms
